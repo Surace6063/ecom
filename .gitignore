@@ -1,5 +1,1 @@
-node_modules
-dist
-dist-ssr
-*.local
-.DS_Store
+Nothing needs to be added to .gitignore since the changes only include source code files (.jsx) and no build artifacts, dependencies, or temporary files.
